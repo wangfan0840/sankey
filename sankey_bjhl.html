@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>登录注册 Sankey </title>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/d3.js"></script>
+    <script src="./js/d3.sankey.js" charset="utf-8"></script>
+
+
+    <!--<script src="//d3js.org/d3.v3.min.js"></script>-->
+    <!--<script src="//cdn.rawgit.com/newrelic-forks/d3-plugins-sankey/master/sankey.js"></script>-->
+    <!--<script src="//cdn.rawgit.com/misoproject/d3.chart/master/d3.chart.min.js"></script>-->
+    <!--<script src="//cdn.rawgit.com/q-m/d3.chart.sankey/master/d3.chart.sankey.min.js"></script>-->
+</head>
+<body>
+<div id="chart"></div>
+<script type="text/javascript">
+    a = {
+        MAX_LAYERS: 0,
+        withBucketEvent_: {},
+        allEvents_: [],
+        flag: !1,
+        isMenuShow: !1,
+        // this.nodeDetailModal_ = $("#node-detail"),
+        // this.tplNodeDetail_ = $("#tpl-node-detail").html(),
+        // this.reportLoading = new r({container: this.sankeyContainer_}),
+        originalGraphData_: {},
+        currentLayer: 4,
+        CONST: {
+            domSize: 160,
+            defaultLayers: 4,
+            opacity: {transStrokeOpacity: 0, lightStrokeOpacity: .3, darkStrokeOpacity: 1, midStrokeOpacity: .8},
+            color: {
+                link_light_color: "#E1EBF7",
+                link_dark_color: "#BBCDE3",
+                link_light_rgb: "rgb(225, 235, 247)",
+                link_dark_rgb: "rgb(187, 205, 227)"
+            },
+            screen: {width: 1400, height: 300, margin: {top: 25, right: 25, bottom: 25, left: 25}},
+            colors: [],
+            inEmptyNode: {
+                event_cname: "7777",
+                event_name: "start",
+                sourceLinks: [],
+                targetLinks: [],
+                isStart: !0
+            }
+        }
+    }
+    source_type ="initial_event"
+    formatSankeyData_ = function (e) {
+        var t = {nodes: [], links: []};
+
+        var ab, i = a.originalGraphData_;
+        switch (source_type) {
+            case"initial_event":
+                for (ab = 0; e - 1 > ab; ab++) t.nodes = t.nodes.concat(i.nodes[ab]), t.links = t.links.concat(i.links[ab]);
+                t.nodes = t.nodes.concat(i.nodes[ab]), 1 === t.nodes.length && (t.links = t.links.concat(i.links[0]));
+                break;
+            case"termination_event":
+                var r = i.nodes.length;
+                for (ab = r - e; r - 1 > ab; ab++) t.nodes = t.nodes.concat(i.nodes[ab]), t.links = t.links.concat(i.links[ab]);
+                t.nodes = t.nodes.concat(i.nodes[r - 1]), 0 === t.links.length && t.links.push({
+                    isStart: !0,
+                    source: "1_start",
+                    target: t.nodes[0].id,
+                    times: t.nodes[0].value
+                })
+        }
+        this.nodeMap = {};
+        var s = a;
+        return t.nodes.forEach(function (e) {
+            s.nodeMap[e.id] = e,
+                e.event_cname = "more" === e.event_name ? "更多<!--{en}More-->" :  "未知"
+        }), t.links = t.links.map(function (e) {
+            var t = {source: s.nodeMap[e.source], target: s.nodeMap[e.target], value: e.times};
+            return e.hasOwnProperty("is_wastage") && e.is_wastage === !0 ? (t.is_wastage = !0, s.nodeMap[e.source].waste = e.times) : e.hasOwnProperty("isStart") ? e.hasOwnProperty("isStart") && (t.is_wastage = !1, t.isStart = !0) : (t.is_wastage = !1, s.nodeMap[e.source].waste = 0), t
+        }), t
+    }
+    // var path = sankey.link();
+    d3.json("data/data.json", function (t) {
+
+        a.originalGraphData_ = t;
+        t= formatSankeyData_(t);
+        function n() {
+            for (var e = d3.select(this), t = e.node().getComputedTextLength(), n = e.text(); t > 100 && n.length > 0;) n = n.slice(0, -1), e.text(n + "..."), t = e.node().getComputedTextLength()
+        }
+
+        var i = t, r = a.CONST.screen.margin, s = a.CONST.screen.width - r.left - r.right,
+            o = a.CONST.screen.height - r.top - r.bottom,
+            l = "initial_event" === "initial_event" ? "ltr" : "rtl",
+            d = d3.select("#chart").append("svg").attr("width", s + r.left + r.right).attr("height", o + r.top + r.bottom).append("g").attr("transform", "translate(" + r.left + "," + r.top + ")"),
+            c = d.append("defs").append("linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "0%").attr("x2", "0%").attr("y2", "100%").attr("spreadMethod", "pad").attr("gradientUnits", "objectBoundingBox");
+        c.append("stop").attr("offset", "0%").attr("stop-color", "#bfdcff").attr("stop-opacity", 1), c.append("stop").attr("offset", "100%").attr("stop-color", "#96bcea").attr("stop-opacity", 1);
+        var p = d.append("defs").append("linearGradient").attr("id", "waste_gradient").attr("x1", "0%").attr("y1", "0%").attr("x2", "0%").attr("y2", "100%").attr("spreadMethod", "pad").attr("gradientUnits", "objectBoundingBox");
+        p.append("stop").attr("offset", "0%").attr("stop-color", "#F9C6C6").attr("stop-opacity", 1), p.append("stop").attr("offset", "100%").attr("stop-color", "white").attr("stop-opacity", 1);
+        var u = d.append("defs").append("linearGradient").attr("id", "start_gradient").attr("x1", "0%").attr("y1", "0%").attr("x2", "0%").attr("y2", "100%").attr("spreadMethod", "pad").attr("gradientUnits", "objectBoundingBox");
+        u.append("stop").attr("offset", "0%").attr("stop-color", "#A9E3D1").attr("stop-opacity", 1), u.append("stop").attr("offset", "100%").attr("stop-color", "white").attr("stop-opacity", 1);
+        var h = d3.sankey().nodeWidth(a.CONST.domSize).size([s, o]).graphType(l),
+            _ = h.link();
+        alert(_);
+        h.nodes(i.nodes).links(i.links).layout(20);
+        var v = d.append("g").selectAll(".link").data(i.links)
+            .enter().append("path")
+            .attr("class", function (e) {
+                return e.is_wastage ? "link wastage" : e.isStart ? "link start" : "link"
+            })
+            .attr("d", _)
+            .attr("link-id", function (e, t) {
+                e.id = t;
+                return "link-" + t;
+            }).style("stroke-width", function (e) {
+                return e.hasOwnProperty("is_wastage") && e.is_wastage === !0 ? Math.min(Math.max(5, e.dy / 8), 10) : e.hasOwnProperty("isStart") && e.isStart === !0 ? Math.min(Math.max(5, e.dy / 8), 10) : void 0
+            }).style("stroke", function (e) {
+                return e.hasOwnProperty("is_wastage") && e.is_wastage === !0 ? "url(#waste_gradient)" : e.hasOwnProperty("isStart") && e.isStart === !0 ? "url(#start_gradient)" : void 0
+            }).sort(function (e, t) {
+                return t.dy - e.dy
+            });
+
+
+        var y = d.append("g").selectAll(".node").data(i.nodes).enter().append("g")
+            .attr("class", "node").attr("data-id", function (e) {
+            return e.event_name
+        }).attr("transform", function (e) {
+            return "translate(" + e.x + "," + e.y + ")"
+        }).sort(function (e, t) {
+            return t.dy - e.dy
+        });
+        y.append("rect").attr("height", function (e) {
+            return Math.max(e.dy / 2, 1)
+        }).attr("width", h.nodeWidth()).style("fill", function () {
+            return "url(#gradient)"
+        }).attr("rx", 2).attr("ry", 2).attr("data-id", function (e) {
+            return e.id
+        }).attr("data-cname", function (e) {
+            return e.event_cname
+        }).style("transform", function (e) {
+            return "translate(0," + e.dy / 2 + ")"
+        }).style("stroke", function () {
+            return "rgba(0,0,0,0.2)"
+        }), y.append("text").attr("x", "12px").attr("y", "12px").attr("dy", ".35em").text(function (e) {
+            return e.event_cname
+        }).style("font-weight", "400").each(n), y.append("text").attr("x", "12px").attr("y", function (e) {
+            return e.by_values ? "2.5em" : "2em"
+        }).text(function (e) {
+            return e.by_values
+        }).style("font-size", "13px").style("fill", "rgba(0,0,0,0.54)").each(n), y.append("text").attr("x", "12px").attr("y", function (e) {
+            return e.by_values ? "3.5em" : "2em"
+        }).attr("dy", ".35em").text(function (e) {
+            return e.value
+        });
+        var f = null, m = "initial_event", g = [];
+        switch (m) {
+            case"termination_event":
+                g = a.originalGraphData_.nodes[a.originalGraphData_.nodes.length - 1], f = g[g.length - 1].event_name;
+                break;
+            case"initial_event":
+                g = a.originalGraphData_.nodes[0], f = g[g.length - 1].event_name
+        }
+        // d3.select("#chart").append("svg:foreignObject").attr("width", 100).attr("height", "2em").attr("y", function (e) {
+        //     return e.dy / 2 - 40
+        // }).attr("x", "1.5em").append("xhtml:div").attr("class", "label_event").html(function () {
+        //     return "<span>initial_event</span><span class='icon-event-direction'></span>"
+        // })
+    });
+
+
+
+
+</script>
+</body>
+</html>

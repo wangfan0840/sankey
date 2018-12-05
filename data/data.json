@@ -1,0 +1,264 @@
+{
+  "nodes": [
+    [
+      {
+        "id": "0_courseFinish",
+        "event_name": "courseFinish",
+        "times": 2765
+      }
+    ],
+    [
+      {
+        "id": "1_enrollCourse",
+        "event_name": "enrollCourse",
+        "times": 739
+      },
+      {
+        "id": "1_courseFinish",
+        "event_name": "courseFinish",
+        "times": 2
+      },
+      {
+        "id": "1_shareCourse",
+        "event_name": "shareCourse",
+        "times": 2
+      },
+      {
+        "id": "1_consultCourse",
+        "event_name": "consultCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "id": "2_shareCourse",
+        "event_name": "shareCourse",
+        "times": 618
+      },
+      {
+        "id": "2_enrollCourse",
+        "event_name": "enrollCourse",
+        "times": 3
+      }
+    ],
+    [
+      {
+        "id": "3_consultCourse",
+        "event_name": "consultCourse",
+        "times": 318
+      },
+      {
+        "id": "3_courseFinish",
+        "event_name": "courseFinish",
+        "times": 2
+      },
+      {
+        "id": "3_enrollCourse",
+        "event_name": "enrollCourse",
+        "times": 1
+      },
+      {
+        "id": "3_shareCourse",
+        "event_name": "shareCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "id": "4_courseFinish",
+        "event_name": "courseFinish",
+        "times": 1
+      },
+      {
+        "id": "4_consultCourse",
+        "event_name": "consultCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "id": "5_shareCourse",
+        "event_name": "shareCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "id": "6_enrollCourse",
+        "event_name": "enrollCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "id": "7_courseFinish",
+        "event_name": "courseFinish",
+        "times": 1
+      }
+    ]
+  ],
+  "links": [
+    [
+      {
+        "source": "0_courseFinish",
+        "target": "1_wastage",
+        "is_wastage": true,
+        "times": 2021
+      },
+      {
+        "source": "0_courseFinish",
+        "target": "1_enrollCourse",
+        "times": 739
+      },
+      {
+        "source": "0_courseFinish",
+        "target": "1_shareCourse",
+        "times": 2
+      },
+      {
+        "source": "0_courseFinish",
+        "target": "1_courseFinish",
+        "times": 2
+      },
+      {
+        "source": "0_courseFinish",
+        "target": "1_consultCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "1_enrollCourse",
+        "target": "2_shareCourse",
+        "times": 617
+      },
+      {
+        "source": "1_enrollCourse",
+        "target": "2_wastage",
+        "is_wastage": true,
+        "times": 122
+      },
+      {
+        "source": "1_courseFinish",
+        "target": "2_wastage",
+        "is_wastage": true,
+        "times": 1
+      },
+      {
+        "source": "1_courseFinish",
+        "target": "2_enrollCourse",
+        "times": 1
+      },
+      {
+        "source": "1_shareCourse",
+        "target": "2_enrollCourse",
+        "times": 2
+      },
+      {
+        "source": "1_consultCourse",
+        "target": "2_shareCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "2_shareCourse",
+        "target": "3_consultCourse",
+        "times": 318
+      },
+      {
+        "source": "2_shareCourse",
+        "target": "3_wastage",
+        "is_wastage": true,
+        "times": 299
+      },
+      {
+        "source": "2_shareCourse",
+        "target": "3_enrollCourse",
+        "times": 1
+      },
+      {
+        "source": "2_enrollCourse",
+        "target": "3_courseFinish",
+        "times": 2
+      },
+      {
+        "source": "2_enrollCourse",
+        "target": "3_shareCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "3_consultCourse",
+        "target": "4_wastage",
+        "is_wastage": true,
+        "times": 317
+      },
+      {
+        "source": "3_consultCourse",
+        "target": "4_consultCourse",
+        "times": 1
+      },
+      {
+        "source": "3_courseFinish",
+        "target": "4_wastage",
+        "is_wastage": true,
+        "times": 2
+      },
+      {
+        "source": "3_enrollCourse",
+        "target": "4_courseFinish",
+        "times": 1
+      },
+      {
+        "source": "3_shareCourse",
+        "target": "4_wastage",
+        "is_wastage": true,
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "4_courseFinish",
+        "target": "5_wastage",
+        "is_wastage": true,
+        "times": 1
+      },
+      {
+        "source": "4_consultCourse",
+        "target": "5_shareCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "5_shareCourse",
+        "target": "6_enrollCourse",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "6_enrollCourse",
+        "target": "7_courseFinish",
+        "times": 1
+      }
+    ],
+    [
+      {
+        "source": "7_courseFinish",
+        "target": "8_wastage",
+        "is_wastage": true,
+        "times": 1
+      }
+    ]
+  ],
+  "truncate_row": [],
+  "truncate_col": false,
+  "report_update_time": "2018-11-30 19:38:43.327",
+  "data_update_time": "2018-11-30 00:01:19.000",
+  "data_sufficient_update_time": "2018-11-30 00:01:19.000",
+  "truncated": false,
+  "sampling_factor": 64
+}
