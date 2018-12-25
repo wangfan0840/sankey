@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>路径3</title>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <!-- 引入 echarts.js -->
+    <script src="./js/echarts.min.js"></script>
+    <script src="./js/walden.js"></script>
+    <script src="./js/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/echarts/4.1.0.rc2/extension/dataTool.min.js"></script>
+    <!-- <script src="https://cdn.bootcss.com/echarts/4.1.0.rc2/echarts.min.js"></script> -->
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="height:1000px;"></div>
+<div id="tool-panel">
+    <div id="theme">
+        <a title="default" class="default selected" data-original-title="default"><span></span></a>
+        <a title="light" class="light" data-original-title="light"><span></span></a>
+        <a title="dark" class="dark" data-original-title="dark"><span></span></a>
+    </div>
+</div>
+<script type="text/javascript">
+
+    function getQueryString(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) return unescape(r[2]);
+        return null;
+    }
+
+    var deep =getQueryString("deep");
+    if(!deep||deep>=15){
+        deep=7;
+    }
+
+    // alert(deep);
+
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'), 'default');
+    // var myChart = echarts.init(document.getElementById('main'), 'dark');
+    // var myChart = echarts.init(document.getElementById('main'), 'dark');
+    // 过渡--------------------- 加载提示
+
+    // 过渡---------------------
+    myChart.showLoading({
+        text: '正在努力的读取数据中...',    //loading话术
+    });
+
+
+
+    $.getJSON('./data/path3.json', function(data) {
+        // alert(data.nodes.reduce((r, item) => r.concat(item), []))
+        myChart.hideLoading();
+        myChart.setOption(option = {
+            title: {
+                text: '路径3'
+            },
+            tooltip: {
+                trigger: 'item',
+                triggerOn: 'mousemove'
+
+            },
+            series: [{
+                type: 'sankey',
+                layout: 'none',
+                data: data.nodes.slice(0,deep).reduce((r, item) => r.concat(item), []),
+            links: data.links.reduce((r, item) => r.concat(item), []),
+        itemStyle: {
+            normal: {
+                borderWidth: 1,
+                    borderColor: '#aaa'
+            }
+        },
+        lineStyle: {
+            normal: {
+                curveness: 0.5
+            }
+        }
+    }]
+    });
+    });
+
+    $('#theme a').click(function () {
+        var theme = $(this).data('original-title');
+        myChart.dispose();
+        myChart = echarts.init(document.getElementById('main'), theme);
+        myChart.setOption(option);
+        $(this).parent().find('.selected').removeClass('selected')
+        $(this).addClass('selected')
+    })
+
+
+</script>
+</body>
+</html>
