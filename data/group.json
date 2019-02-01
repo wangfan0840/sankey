@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "groups": [
+    {
+      "id": 1,
+      "title": "Web通用",
+      "events": [
+        {
+          "id": 2,
+          "visible": true
+        },
+        {
+          "id": 1,
+          "visible": true
+        },
+        {
+          "id": 29,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课程购买与退订",
+      "events": [
+        {
+          "id": 2,
+          "visible": true
+        },
+        {
+          "id": 1,
+          "visible": true
+        },
+        {
+          "id": 29,
+          "visible": true
+        }
+      ]
+    }
+  ]
+}

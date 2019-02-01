@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Click",
+    "cname": "元素点击",
+    "comment": "噢哟厉害可",
+    "id": 1
+  },
+  {
+    "name": "ViewScreen",
+    "cname": "浏览页面",
+    "comment": "备注信息",
+    "id": 2
+  },
+  {
+    "name": "reserveCourse",
+    "cname": "预约课程",
+    "comment": "",
+    "id": 3
+  },
+  {
+    "name": "getCoupon",
+    "cname": "领取优惠券",
+    "comment": "",
+    "id": 4
+  }
+]

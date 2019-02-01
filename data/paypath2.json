@@ -1,0 +1,3807 @@
+{
+  "code": 0,
+  "data": {
+    "nodes": [
+      [
+        {
+          "id": "0_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 3121
+        }
+      ],
+      [
+        {
+          "id": "1_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 612
+        },
+        {
+          "id": "1_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 936
+        },
+        {
+          "id": "1_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 532
+        },
+        {
+          "id": "1_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 10
+        },
+        {
+          "id": "1_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 69
+        },
+        {
+          "id": "1_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 1
+        },
+        {
+          "id": "1_跟谁学 好课 收银台 点击微信支付事件",
+          "name": "28398952",
+          "value": 1
+        },
+        {
+          "id": "1_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 17
+        },
+        {
+          "id": "1_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 9
+        },
+        {
+          "id": "1_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 4
+        },
+        {
+          "id": "1_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 34
+        }
+      ],
+      [
+        {
+          "id": "2_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 752
+        },
+        {
+          "id": "2_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 207
+        },
+        {
+          "id": "2_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 429
+        },
+        {
+          "id": "2_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 1
+        },
+        {
+          "id": "2_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 370
+        },
+        {
+          "id": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 56
+        },
+        {
+          "id": "2_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 61
+        },
+        {
+          "id": "2_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 8
+        },
+        {
+          "id": "2_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 13
+        }
+      ],
+      [
+        {
+          "id": "3_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 726
+        },
+        {
+          "id": "3_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 375
+        },
+        {
+          "id": "3_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 124
+        },
+        {
+          "id": "3_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 1
+        },
+        {
+          "id": "3_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 117
+        },
+        {
+          "id": "3_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 6
+        },
+        {
+          "id": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 257
+        },
+        {
+          "id": "3_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 30
+        },
+        {
+          "id": "3_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 52
+        },
+        {
+          "id": "3_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 39
+        }
+      ],
+      [
+        {
+          "id": "4_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 380
+        },
+        {
+          "id": "4_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 163
+        },
+        {
+          "id": "4_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 54
+        },
+        {
+          "id": "4_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 525
+        },
+        {
+          "id": "4_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 1
+        },
+        {
+          "id": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 88
+        },
+        {
+          "id": "4_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 94
+        },
+        {
+          "id": "4_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 22
+        },
+        {
+          "id": "4_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 128
+        }
+      ],
+      [
+        {
+          "id": "5_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 294
+        },
+        {
+          "id": "5_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 52
+        },
+        {
+          "id": "5_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 21
+        },
+        {
+          "id": "5_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 1
+        },
+        {
+          "id": "5_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 255
+        },
+        {
+          "id": "5_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 3
+        },
+        {
+          "id": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 405
+        },
+        {
+          "id": "5_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 88
+        },
+        {
+          "id": "5_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 44
+        },
+        {
+          "id": "5_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 93
+        }
+      ],
+      [
+        {
+          "id": "6_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 243
+        },
+        {
+          "id": "6_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 47
+        },
+        {
+          "id": "6_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 10
+        },
+        {
+          "id": "6_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 162
+        },
+        {
+          "id": "6_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 2
+        },
+        {
+          "id": "6_跟谁学 好课 收银台 点击微信支付事件",
+          "name": "28398952",
+          "value": 1
+        },
+        {
+          "id": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 190
+        },
+        {
+          "id": "6_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 62
+        },
+        {
+          "id": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 65
+        },
+        {
+          "id": "6_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 241
+        }
+      ],
+      [
+        {
+          "id": "7_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 178
+        },
+        {
+          "id": "7_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 20
+        },
+        {
+          "id": "7_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 11
+        },
+        {
+          "id": "7_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 2
+        },
+        {
+          "id": "7_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 119
+        },
+        {
+          "id": "7_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 1
+        },
+        {
+          "id": "7_跟谁学 好课 收银台 点击微信支付事件",
+          "name": "28398952",
+          "value": 1
+        },
+        {
+          "id": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 123
+        },
+        {
+          "id": "7_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 51
+        },
+        {
+          "id": "7_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 40
+        },
+        {
+          "id": "7_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 203
+        }
+      ],
+      [
+        {
+          "id": "8_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 139
+        },
+        {
+          "id": "8_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 20
+        },
+        {
+          "id": "8_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 4
+        },
+        {
+          "id": "8_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 1
+        },
+        {
+          "id": "8_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 77
+        },
+        {
+          "id": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 93
+        },
+        {
+          "id": "8_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 44
+        },
+        {
+          "id": "8_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 42
+        },
+        {
+          "id": "8_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 120
+        }
+      ],
+      [
+        {
+          "id": "9_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 108
+        },
+        {
+          "id": "9_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 5
+        },
+        {
+          "id": "9_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 4
+        },
+        {
+          "id": "9_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 56
+        },
+        {
+          "id": "9_跟谁学 好课 收银台 点击微信支付事件",
+          "name": "28398952",
+          "value": 2
+        },
+        {
+          "id": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 59
+        },
+        {
+          "id": "9_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 56
+        },
+        {
+          "id": "9_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 27
+        },
+        {
+          "id": "9_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 69
+        }
+      ],
+      [
+        {
+          "id": "10_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 62
+        },
+        {
+          "id": "10_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 8
+        },
+        {
+          "id": "10_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 3
+        },
+        {
+          "id": "10_订单中心页面，点击设置地址按钮（已支付，未设置邮寄地址）",
+          "name": "26256173",
+          "value": 1
+        },
+        {
+          "id": "10_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 2
+        },
+        {
+          "id": "10_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 55
+        },
+        {
+          "id": "10_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 1
+        },
+        {
+          "id": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 33
+        },
+        {
+          "id": "10_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 36
+        },
+        {
+          "id": "10_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 33
+        },
+        {
+          "id": "10_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 65
+        }
+      ],
+      [
+        {
+          "id": "11_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 38
+        },
+        {
+          "id": "11_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 3
+        },
+        {
+          "id": "11_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 3
+        },
+        {
+          "id": "11_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 3
+        },
+        {
+          "id": "11_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 24
+        },
+        {
+          "id": "11_跟谁学 好课 收银台 点击支付宝支付事件",
+          "name": "28398972",
+          "value": 1
+        },
+        {
+          "id": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 44
+        },
+        {
+          "id": "11_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 35
+        },
+        {
+          "id": "11_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 15
+        },
+        {
+          "id": "11_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 50
+        }
+      ],
+      [
+        {
+          "id": "12_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 30
+        },
+        {
+          "id": "12_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 4
+        },
+        {
+          "id": "12_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 1
+        },
+        {
+          "id": "12_提交订单-优惠券-选择优惠券\r\n",
+          "name": "14258498",
+          "value": 1
+        },
+        {
+          "id": "12_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 23
+        },
+        {
+          "id": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 20
+        },
+        {
+          "id": "12_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 31
+        },
+        {
+          "id": "12_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 17
+        },
+        {
+          "id": "12_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 32
+        }
+      ],
+      [
+        {
+          "id": "13_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 21
+        },
+        {
+          "id": "13_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 3
+        },
+        {
+          "id": "13_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 17
+        },
+        {
+          "id": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 20
+        },
+        {
+          "id": "13_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 18
+        },
+        {
+          "id": "13_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 12
+        },
+        {
+          "id": "13_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 28
+        }
+      ],
+      [
+        {
+          "id": "14_/电商/学生/联报订单提交页",
+          "name": "/market/student/submitLinkOrder",
+          "value": 17
+        },
+        {
+          "id": "14_联报提交订单-底部提交订单按钮",
+          "name": "14259281",
+          "value": 5
+        },
+        {
+          "id": "14_联报提交订单-顶部选择地址",
+          "name": "14259320",
+          "value": 1
+        },
+        {
+          "id": "14_跟谁学 好课 收银台 页面浏览事件",
+          "name": "28398893",
+          "value": 15
+        },
+        {
+          "id": "14_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "name": "28398997",
+          "value": 10
+        },
+        {
+          "id": "14_/电商/邮寄地址/设置邮寄地址",
+          "name": "/market/address/addressSet",
+          "value": 14
+        },
+        {
+          "id": "14_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "name": "25924243",
+          "value": 6
+        },
+        {
+          "id": "14_/电商/学生/支付成功",
+          "name": "/market/student/paySuccess",
+          "value": 21
+        }
+      ]
+    ],
+    "links": [
+      [
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 612
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 936
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 532
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 69
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_跟谁学 好课 收银台 点击微信支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 34
+        },
+        {
+          "source": "0_/电商/学生/联报订单提交页",
+          "target": "1_流失",
+          "wastage": true,
+          "value": 896
+        }
+      ],
+      [
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 143
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 200
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 87
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 18
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_/电商/学生/联报订单提交页",
+          "target": "2_流失",
+          "wastage": true,
+          "value": 155
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 81
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 342
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 339
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 53
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "1_联报提交订单-底部提交订单按钮",
+          "target": "2_流失",
+          "wastage": true,
+          "value": 117
+        },
+        {
+          "source": "1_联报提交订单-顶部选择地址",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 501
+        },
+        {
+          "source": "1_联报提交订单-顶部选择地址",
+          "target": "2_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "1_联报提交订单-顶部选择地址",
+          "target": "2_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_联报提交订单-顶部选择地址",
+          "target": "2_流失",
+          "wastage": true,
+          "value": 24
+        },
+        {
+          "source": "1_提交订单-优惠券-选择优惠券\r\n",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 页面浏览事件",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 页面浏览事件",
+          "target": "2_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 页面浏览事件",
+          "target": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 56
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 页面浏览事件",
+          "target": "2_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 点击微信支付事件",
+          "target": "2_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "2_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "2_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "2_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "1_/电商/邮寄地址/设置邮寄地址",
+          "target": "2_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "1_/电商/邮寄地址/设置邮寄地址",
+          "target": "2_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "1_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "1_/电商/学生/支付成功",
+          "target": "2_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_/电商/学生/支付成功",
+          "target": "2_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "1_/电商/学生/支付成功",
+          "target": "2_流失",
+          "wastage": true,
+          "value": 28
+        }
+      ],
+      [
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 215
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 373
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 62
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 24
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "2_/电商/学生/联报订单提交页",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 69
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 29
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 62
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 68
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 20
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "2_联报提交订单-底部提交订单按钮",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 24
+        },
+        {
+          "source": "2_联报提交订单-顶部选择地址",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 407
+        },
+        {
+          "source": "2_联报提交订单-顶部选择地址",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 22
+        },
+        {
+          "source": "2_提交订单-优惠券-选择优惠券\r\n",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 页面浏览事件",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 66
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 页面浏览事件",
+          "target": "3_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 页面浏览事件",
+          "target": "3_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 页面浏览事件",
+          "target": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 257
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 页面浏览事件",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 25
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "3_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "3_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "3_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 30
+        },
+        {
+          "source": "2_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 13
+        },
+        {
+          "source": "2_/电商/邮寄地址/设置邮寄地址",
+          "target": "3_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "2_/电商/邮寄地址/设置邮寄地址",
+          "target": "3_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 52
+        },
+        {
+          "source": "2_/电商/邮寄地址/设置邮寄地址",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 4
+        },
+        {
+          "source": "2_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 8
+        },
+        {
+          "source": "2_/电商/学生/支付成功",
+          "target": "3_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "2_/电商/学生/支付成功",
+          "target": "3_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "2_/电商/学生/支付成功",
+          "target": "3_流失",
+          "wastage": true,
+          "value": 5
+        }
+      ],
+      [
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 175
+        },
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 160
+        },
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 37
+        },
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 226
+        },
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_/电商/学生/联报订单提交页",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 110
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 33
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 267
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 27
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "3_联报提交订单-底部提交订单按钮",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 25
+        },
+        {
+          "source": "3_联报提交订单-顶部选择地址",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 119
+        },
+        {
+          "source": "3_联报提交订单-顶部选择地址",
+          "target": "4_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "3_联报提交订单-顶部选择地址",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "3_提交订单-优惠券-选择优惠券\r\n",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 页面浏览事件",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 14
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 页面浏览事件",
+          "target": "4_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 7
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 页面浏览事件",
+          "target": "4_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 页面浏览事件",
+          "target": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 87
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 页面浏览事件",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 8
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "4_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "4_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "4_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 2
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 25
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "4_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 22
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "4_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 48
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "4_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 112
+        },
+        {
+          "source": "3_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 50
+        },
+        {
+          "source": "3_/电商/邮寄地址/设置邮寄地址",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "3_/电商/邮寄地址/设置邮寄地址",
+          "target": "4_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "3_/电商/邮寄地址/设置邮寄地址",
+          "target": "4_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 22
+        },
+        {
+          "source": "3_/电商/邮寄地址/设置邮寄地址",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 5
+        },
+        {
+          "source": "3_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "3_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "4_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "3_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 39
+        },
+        {
+          "source": "3_/电商/学生/支付成功",
+          "target": "4_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "3_/电商/学生/支付成功",
+          "target": "4_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "3_/电商/学生/支付成功",
+          "target": "4_流失",
+          "wastage": true,
+          "value": 30
+        }
+      ],
+      [
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 136
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 51
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 15
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 105
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "4_/电商/学生/联报订单提交页",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 59
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 18
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 106
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 20
+        },
+        {
+          "source": "4_联报提交订单-底部提交订单按钮",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 11
+        },
+        {
+          "source": "4_联报提交订单-顶部选择地址",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 54
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 页面浏览事件",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 61
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 页面浏览事件",
+          "target": "5_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 33
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 页面浏览事件",
+          "target": "5_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 页面浏览事件",
+          "target": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 403
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 页面浏览事件",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 25
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "5_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "5_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "5_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "5_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 40
+        },
+        {
+          "source": "4_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 12
+        },
+        {
+          "source": "4_/电商/邮寄地址/设置邮寄地址",
+          "target": "5_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 39
+        },
+        {
+          "source": "4_/电商/邮寄地址/设置邮寄地址",
+          "target": "5_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 44
+        },
+        {
+          "source": "4_/电商/邮寄地址/设置邮寄地址",
+          "target": "5_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_/电商/邮寄地址/设置邮寄地址",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 10
+        },
+        {
+          "source": "4_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "4_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 19
+        },
+        {
+          "source": "4_/电商/学生/支付成功",
+          "target": "5_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 13
+        },
+        {
+          "source": "4_/电商/学生/支付成功",
+          "target": "5_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "4_/电商/学生/支付成功",
+          "target": "5_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "4_/电商/学生/支付成功",
+          "target": "5_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 49
+        },
+        {
+          "source": "4_/电商/学生/支付成功",
+          "target": "5_流失",
+          "wastage": true,
+          "value": 63
+        }
+      ],
+      [
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 109
+        },
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 46
+        },
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 71
+        },
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "5_/电商/学生/联报订单提交页",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 51
+        },
+        {
+          "source": "5_联报提交订单-底部提交订单按钮",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "5_联报提交订单-底部提交订单按钮",
+          "target": "6_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_联报提交订单-底部提交订单按钮",
+          "target": "6_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_联报提交订单-底部提交订单按钮",
+          "target": "6_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 30
+        },
+        {
+          "source": "5_联报提交订单-底部提交订单按钮",
+          "target": "6_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "5_联报提交订单-底部提交订单按钮",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 7
+        },
+        {
+          "source": "5_联报提交订单-顶部选择地址",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 20
+        },
+        {
+          "source": "5_联报提交订单-顶部选择地址",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "5_提交订单-优惠券-选择优惠券\r\n",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 26
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 22
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_跟谁学 好课 收银台 点击微信支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 190
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 页面浏览事件",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 13
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "6_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 61
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "6_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 39
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "6_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 29
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "6_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 206
+        },
+        {
+          "source": "5_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 70
+        },
+        {
+          "source": "5_/电商/邮寄地址/设置邮寄地址",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "5_/电商/邮寄地址/设置邮寄地址",
+          "target": "6_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "5_/电商/邮寄地址/设置邮寄地址",
+          "target": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 65
+        },
+        {
+          "source": "5_/电商/邮寄地址/设置邮寄地址",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 5
+        },
+        {
+          "source": "5_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "5_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "6_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "5_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 31
+        },
+        {
+          "source": "5_/电商/学生/支付成功",
+          "target": "6_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 14
+        },
+        {
+          "source": "5_/电商/学生/支付成功",
+          "target": "6_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "5_/电商/学生/支付成功",
+          "target": "6_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 23
+        },
+        {
+          "source": "5_/电商/学生/支付成功",
+          "target": "6_流失",
+          "wastage": true,
+          "value": 55
+        }
+      ],
+      [
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 86
+        },
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 60
+        },
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "6_/电商/学生/联报订单提交页",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 61
+        },
+        {
+          "source": "6_联报提交订单-底部提交订单按钮",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 7
+        },
+        {
+          "source": "6_联报提交订单-底部提交订单按钮",
+          "target": "7_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "6_联报提交订单-底部提交订单按钮",
+          "target": "7_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_联报提交订单-底部提交订单按钮",
+          "target": "7_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "6_联报提交订单-底部提交订单按钮",
+          "target": "7_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 13
+        },
+        {
+          "source": "6_联报提交订单-底部提交订单按钮",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 6
+        },
+        {
+          "source": "6_联报提交订单-顶部选择地址",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "6_联报提交订单-顶部选择地址",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 12
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 13
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_跟谁学 好课 收银台 点击微信支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 122
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 页面浏览事件",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 12
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "7_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击微信支付事件",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 25
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "7_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 27
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "7_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "7_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 89
+        },
+        {
+          "source": "6_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 32
+        },
+        {
+          "source": "6_/电商/邮寄地址/设置邮寄地址",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "6_/电商/邮寄地址/设置邮寄地址",
+          "target": "7_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 12
+        },
+        {
+          "source": "6_/电商/邮寄地址/设置邮寄地址",
+          "target": "7_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 40
+        },
+        {
+          "source": "6_/电商/邮寄地址/设置邮寄地址",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 7
+        },
+        {
+          "source": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "7_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "7_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "7_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 35
+        },
+        {
+          "source": "6_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 23
+        },
+        {
+          "source": "6_/电商/学生/支付成功",
+          "target": "7_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 29
+        },
+        {
+          "source": "6_/电商/学生/支付成功",
+          "target": "7_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "6_/电商/学生/支付成功",
+          "target": "7_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "6_/电商/学生/支付成功",
+          "target": "7_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 77
+        },
+        {
+          "source": "6_/电商/学生/支付成功",
+          "target": "7_流失",
+          "wastage": true,
+          "value": 132
+        }
+      ],
+      [
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 66
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 36
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "7_/电商/学生/联报订单提交页",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 50
+        },
+        {
+          "source": "7_联报提交订单-底部提交订单按钮",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "7_联报提交订单-底部提交订单按钮",
+          "target": "8_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "7_联报提交订单-底部提交订单按钮",
+          "target": "8_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "7_联报提交订单-底部提交订单按钮",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "7_联报提交订单-顶部选择地址",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "7_提交订单-优惠券-选择优惠券\r\n",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 页面浏览事件",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 12
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 页面浏览事件",
+          "target": "8_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 页面浏览事件",
+          "target": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 92
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 页面浏览事件",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 7
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "8_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击微信支付事件",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "8_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 22
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "8_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 29
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "8_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 36
+        },
+        {
+          "source": "7_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 19
+        },
+        {
+          "source": "7_/电商/邮寄地址/设置邮寄地址",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "7_/电商/邮寄地址/设置邮寄地址",
+          "target": "8_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "7_/电商/邮寄地址/设置邮寄地址",
+          "target": "8_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 42
+        },
+        {
+          "source": "7_/电商/邮寄地址/设置邮寄地址",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "7_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "7_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "8_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 25
+        },
+        {
+          "source": "7_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 10
+        },
+        {
+          "source": "7_/电商/学生/支付成功",
+          "target": "8_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 21
+        },
+        {
+          "source": "7_/电商/学生/支付成功",
+          "target": "8_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "7_/电商/学生/支付成功",
+          "target": "8_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 57
+        },
+        {
+          "source": "7_/电商/学生/支付成功",
+          "target": "8_流失",
+          "wastage": true,
+          "value": 117
+        }
+      ],
+      [
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 54
+        },
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 31
+        },
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "8_/电商/学生/联报订单提交页",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 43
+        },
+        {
+          "source": "8_联报提交订单-底部提交订单按钮",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "8_联报提交订单-底部提交订单按钮",
+          "target": "9_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "8_联报提交订单-底部提交订单按钮",
+          "target": "9_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "8_联报提交订单-底部提交订单按钮",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 2
+        },
+        {
+          "source": "8_联报提交订单-顶部选择地址",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "8_提交订单-优惠券-选择优惠券\r\n",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 页面浏览事件",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 页面浏览事件",
+          "target": "9_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 页面浏览事件",
+          "target": "9_跟谁学 好课 收银台 点击微信支付事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 页面浏览事件",
+          "target": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 59
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 页面浏览事件",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 6
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "9_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "9_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 37
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "9_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 22
+        },
+        {
+          "source": "8_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 15
+        },
+        {
+          "source": "8_/电商/邮寄地址/设置邮寄地址",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "8_/电商/邮寄地址/设置邮寄地址",
+          "target": "9_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "8_/电商/邮寄地址/设置邮寄地址",
+          "target": "9_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 27
+        },
+        {
+          "source": "8_/电商/邮寄地址/设置邮寄地址",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 10
+        },
+        {
+          "source": "8_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "8_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "9_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "8_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "9_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 21
+        },
+        {
+          "source": "8_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 18
+        },
+        {
+          "source": "8_/电商/学生/支付成功",
+          "target": "9_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 27
+        },
+        {
+          "source": "8_/电商/学生/支付成功",
+          "target": "9_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "8_/电商/学生/支付成功",
+          "target": "9_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 25
+        },
+        {
+          "source": "8_/电商/学生/支付成功",
+          "target": "9_流失",
+          "wastage": true,
+          "value": 60
+        }
+      ],
+      [
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 31
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 7
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 31
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "9_/电商/学生/联报订单提交页",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 29
+        },
+        {
+          "source": "9_联报提交订单-底部提交订单按钮",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "9_联报提交订单-底部提交订单按钮",
+          "target": "10_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "9_联报提交订单-底部提交订单按钮",
+          "target": "10_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "9_联报提交订单-底部提交订单按钮",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "9_联报提交订单-顶部选择地址",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 页面浏览事件",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 页面浏览事件",
+          "target": "10_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 页面浏览事件",
+          "target": "10_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 页面浏览事件",
+          "target": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 33
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 页面浏览事件",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击微信支付事件",
+          "target": "10_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击微信支付事件",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "10_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "10_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "10_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 15
+        },
+        {
+          "source": "9_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 12
+        },
+        {
+          "source": "9_/电商/邮寄地址/设置邮寄地址",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "9_/电商/邮寄地址/设置邮寄地址",
+          "target": "10_订单中心页面，点击设置地址按钮（已支付，未设置邮寄地址）",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "9_/电商/邮寄地址/设置邮寄地址",
+          "target": "10_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "9_/电商/邮寄地址/设置邮寄地址",
+          "target": "10_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 33
+        },
+        {
+          "source": "9_/电商/邮寄地址/设置邮寄地址",
+          "target": "10_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "9_/电商/邮寄地址/设置邮寄地址",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 7
+        },
+        {
+          "source": "9_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "9_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "10_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 25
+        },
+        {
+          "source": "9_/电商/学生/支付成功",
+          "target": "10_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "9_/电商/学生/支付成功",
+          "target": "10_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "9_/电商/学生/支付成功",
+          "target": "10_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 18
+        },
+        {
+          "source": "9_/电商/学生/支付成功",
+          "target": "10_流失",
+          "wastage": true,
+          "value": 34
+        }
+      ],
+      [
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 16
+        },
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 15
+        },
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "10_/电商/学生/联报订单提交页",
+          "target": "11_流失",
+          "wastage": true,
+          "value": 18
+        },
+        {
+          "source": "10_联报提交订单-底部提交订单按钮",
+          "target": "11_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_联报提交订单-底部提交订单按钮",
+          "target": "11_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "10_联报提交订单-底部提交订单按钮",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "10_联报提交订单-顶部选择地址",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "10_订单中心页面，点击设置地址按钮（已支付，未设置邮寄地址）",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_提交订单-优惠券-选择优惠券\r\n",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 页面浏览事件",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 页面浏览事件",
+          "target": "11_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 页面浏览事件",
+          "target": "11_跟谁学 好课 收银台 点击支付宝支付事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 页面浏览事件",
+          "target": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 44
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 页面浏览事件",
+          "target": "11_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "11_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "11_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "10_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "11_流失",
+          "wastage": true,
+          "value": 9
+        },
+        {
+          "source": "10_/电商/邮寄地址/设置邮寄地址",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_/电商/邮寄地址/设置邮寄地址",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "10_/电商/邮寄地址/设置邮寄地址",
+          "target": "11_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 15
+        },
+        {
+          "source": "10_/电商/邮寄地址/设置邮寄地址",
+          "target": "11_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_/电商/邮寄地址/设置邮寄地址",
+          "target": "11_流失",
+          "wastage": true,
+          "value": 11
+        },
+        {
+          "source": "10_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "10_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "11_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 28
+        },
+        {
+          "source": "10_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "11_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "10_/电商/学生/支付成功",
+          "target": "11_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "10_/电商/学生/支付成功",
+          "target": "11_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "10_/电商/学生/支付成功",
+          "target": "11_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 13
+        },
+        {
+          "source": "10_/电商/学生/支付成功",
+          "target": "11_流失",
+          "wastage": true,
+          "value": 39
+        }
+      ],
+      [
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 13
+        },
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_提交订单-优惠券-选择优惠券\r\n",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_/电商/学生/联报订单提交页",
+          "target": "12_流失",
+          "wastage": true,
+          "value": 10
+        },
+        {
+          "source": "11_联报提交订单-底部提交订单按钮",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_联报提交订单-底部提交订单按钮",
+          "target": "12_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_联报提交订单-底部提交订单按钮",
+          "target": "12_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_联报提交订单-顶部选择地址",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "11_提交订单-优惠券-选择优惠券\r\n",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 页面浏览事件",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 页面浏览事件",
+          "target": "12_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 页面浏览事件",
+          "target": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 20
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 页面浏览事件",
+          "target": "12_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 点击支付宝支付事件",
+          "target": "12_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "12_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "12_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 12
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "12_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "11_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "12_流失",
+          "wastage": true,
+          "value": 8
+        },
+        {
+          "source": "11_/电商/邮寄地址/设置邮寄地址",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "11_/电商/邮寄地址/设置邮寄地址",
+          "target": "12_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "11_/电商/邮寄地址/设置邮寄地址",
+          "target": "12_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 17
+        },
+        {
+          "source": "11_/电商/邮寄地址/设置邮寄地址",
+          "target": "12_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "11_/电商/邮寄地址/设置邮寄地址",
+          "target": "12_流失",
+          "wastage": true,
+          "value": 11
+        },
+        {
+          "source": "11_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "12_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 14
+        },
+        {
+          "source": "11_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "12_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "11_/电商/学生/支付成功",
+          "target": "12_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "11_/电商/学生/支付成功",
+          "target": "12_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 13
+        },
+        {
+          "source": "11_/电商/学生/支付成功",
+          "target": "12_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "11_/电商/学生/支付成功",
+          "target": "12_流失",
+          "wastage": true,
+          "value": 26
+        }
+      ],
+      [
+        {
+          "source": "12_/电商/学生/联报订单提交页",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "12_/电商/学生/联报订单提交页",
+          "target": "13_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "12_/电商/学生/联报订单提交页",
+          "target": "13_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "12_/电商/学生/联报订单提交页",
+          "target": "13_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "12_/电商/学生/联报订单提交页",
+          "target": "13_流失",
+          "wastage": true,
+          "value": 7
+        },
+        {
+          "source": "12_联报提交订单-底部提交订单按钮",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "12_联报提交订单-底部提交订单按钮",
+          "target": "13_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "12_联报提交订单-底部提交订单按钮",
+          "target": "13_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "12_联报提交订单-顶部选择地址",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "12_提交订单-优惠券-选择优惠券\r\n",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 页面浏览事件",
+          "target": "13_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 页面浏览事件",
+          "target": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 20
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "13_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "13_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "13_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 7
+        },
+        {
+          "source": "12_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "13_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "12_/电商/邮寄地址/设置邮寄地址",
+          "target": "13_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "12_/电商/邮寄地址/设置邮寄地址",
+          "target": "13_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 12
+        },
+        {
+          "source": "12_/电商/邮寄地址/设置邮寄地址",
+          "target": "13_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "12_/电商/邮寄地址/设置邮寄地址",
+          "target": "13_流失",
+          "wastage": true,
+          "value": 12
+        },
+        {
+          "source": "12_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "12_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "13_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "12_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "13_流失",
+          "wastage": true,
+          "value": 4
+        },
+        {
+          "source": "12_/电商/学生/支付成功",
+          "target": "13_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "12_/电商/学生/支付成功",
+          "target": "13_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "12_/电商/学生/支付成功",
+          "target": "13_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "12_/电商/学生/支付成功",
+          "target": "13_流失",
+          "wastage": true,
+          "value": 14
+        }
+      ],
+      [
+        {
+          "source": "13_/电商/学生/联报订单提交页",
+          "target": "14_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "13_/电商/学生/联报订单提交页",
+          "target": "14_联报提交订单-底部提交订单按钮",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "13_/电商/学生/联报订单提交页",
+          "target": "14_联报提交订单-顶部选择地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "13_/电商/学生/联报订单提交页",
+          "target": "14_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 9
+        },
+        {
+          "source": "13_/电商/学生/联报订单提交页",
+          "target": "14_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "13_/电商/学生/联报订单提交页",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "13_联报提交订单-底部提交订单按钮",
+          "target": "14_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "13_联报提交订单-底部提交订单按钮",
+          "target": "14_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "13_联报提交订单-底部提交订单按钮",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 页面浏览事件",
+          "target": "14_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 页面浏览事件",
+          "target": "14_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 页面浏览事件",
+          "target": "14_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 10
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 页面浏览事件",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 3
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "14_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "14_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "14_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 8
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "14_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "13_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "13_/电商/邮寄地址/设置邮寄地址",
+          "target": "14_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "13_/电商/邮寄地址/设置邮寄地址",
+          "target": "14_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "13_/电商/邮寄地址/设置邮寄地址",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 11
+        },
+        {
+          "source": "13_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "14_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "13_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "13_/电商/学生/支付成功",
+          "target": "14_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 7
+        },
+        {
+          "source": "13_/电商/学生/支付成功",
+          "target": "14_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "13_/电商/学生/支付成功",
+          "target": "14_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "13_/电商/学生/支付成功",
+          "target": "14_流失",
+          "wastage": true,
+          "value": 12
+        }
+      ],
+      [
+        {
+          "source": "14_/电商/学生/联报订单提交页",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "14_/电商/学生/联报订单提交页",
+          "target": "15_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 7
+        },
+        {
+          "source": "14_/电商/学生/联报订单提交页",
+          "target": "15_流失",
+          "wastage": true,
+          "value": 4
+        },
+        {
+          "source": "14_联报提交订单-底部提交订单按钮",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "14_联报提交订单-底部提交订单按钮",
+          "target": "15_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_联报提交订单-底部提交订单按钮",
+          "target": "15_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "14_联报提交订单-顶部选择地址",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 页面浏览事件",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 页面浏览事件",
+          "target": "15_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 页面浏览事件",
+          "target": "15_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "wastage": false,
+          "value": 11
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "15_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "15_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "14_跟谁学 好课 收银台 点击立即支付按钮 事件",
+          "target": "15_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 6
+        },
+        {
+          "source": "14_/电商/邮寄地址/设置邮寄地址",
+          "target": "15_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "14_/电商/邮寄地址/设置邮寄地址",
+          "target": "15_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "wastage": false,
+          "value": 5
+        },
+        {
+          "source": "14_/电商/邮寄地址/设置邮寄地址",
+          "target": "15_流失",
+          "wastage": true,
+          "value": 5
+        },
+        {
+          "source": "14_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "15_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "15_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 3
+        },
+        {
+          "source": "14_设置邮寄地址页面，点击“确认使用该按钮”时上报",
+          "target": "15_流失",
+          "wastage": true,
+          "value": 1
+        },
+        {
+          "source": "14_/电商/学生/支付成功",
+          "target": "15_/电商/学生/联报订单提交页",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "14_/电商/学生/支付成功",
+          "target": "15_跟谁学 好课 收银台 页面浏览事件",
+          "wastage": false,
+          "value": 1
+        },
+        {
+          "source": "14_/电商/学生/支付成功",
+          "target": "15_/电商/邮寄地址/设置邮寄地址",
+          "wastage": false,
+          "value": 2
+        },
+        {
+          "source": "14_/电商/学生/支付成功",
+          "target": "15_/电商/学生/支付成功",
+          "wastage": false,
+          "value": 4
+        },
+        {
+          "source": "14_/电商/学生/支付成功",
+          "target": "15_流失",
+          "wastage": true,
+          "value": 10
+        }
+      ]
+    ]
+  },
+  "msg": "success",
+  "pager": null
+}

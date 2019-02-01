@@ -1,0 +1,44 @@
+{
+  "from_date": "2018-12-01",
+  "to_date": "2018-12-31",
+  "measures": [
+    {
+      "event_name": "AppEnd",
+      "aggregator": "general"
+    }
+  ],
+  "unit": "day", // 默认按天，以后扩展
+  "filter": {
+    "relation": "and",
+    "conditions": [
+      {
+        "field": "event.$AppEnd.$wifi",
+        "function": "isFalse",
+        "params": []
+      },
+      {
+        "field": "event.$AppEnd.$browser",
+        "function": "equal",
+        "params": [
+          "Chrome"
+        ]
+      },
+      {
+        "field": "user.learnPurpose",
+        "function": "equal",
+        "params": [
+          "兴趣爱好",
+          "出国留学",
+          "uuu",
+          "工作需要"
+        ]
+      }
+    ]
+  },
+  "by_fields": [
+    "os_version",
+    "country"
+  ],
+  "request_id": "1546950061488:212622",
+  "use_cache": true
+}

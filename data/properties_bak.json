@@ -1,0 +1,39 @@
+{
+
+    "event": [
+      {
+        "db_column_name": "distinct_id",
+        "cname": "Distinct ID",
+        "name": "$distinct_id",
+        "data_type": "string"
+      },
+      {
+        "db_column_name": "p__ip",
+        "cname": "IP",
+        "name": "$ip",
+        "data_type": "string"
+      },
+      {
+        "db_column_name": "p__country",
+        "cname": "国家",
+        "name": "$country",
+        "data_type": "string"
+      }
+
+    ],
+    "user": [
+      {
+        "db_column_name": "p_age",
+        "cname": "age",
+        "name": "age",
+        "data_type": "number"
+      },
+      {
+        "db_column_name": "p_name",
+        "cname": "name",
+        "name": "name",
+        "data_type": "string"
+      }
+    ]
+
+}
