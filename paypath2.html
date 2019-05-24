@@ -63,9 +63,11 @@
                 triggerOn: 'mousemove'
 
             },
+
             series: [{
                 type: 'sankey',
-                layout: 'none',
+                focusNodeAdjacency:'allEdges',
+                // layout: 'none',
                 data: data.nodes.slice(0,deep).reduce((r, item) => r.concat(item), []),
             links: data.links.reduce((r, item) => r.concat(item), []),
         itemStyle: {

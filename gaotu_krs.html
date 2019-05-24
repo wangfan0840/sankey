@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>支付路径1</title>
+    <title>高途-克瑞斯路径分析</title>
     <link rel="stylesheet" type="text/css" href="./css/main.css">
     <!-- 引入 echarts.js -->
     <script src="./js/echarts.min.js"></script>
@@ -50,13 +50,12 @@
 
 
 
-    $.getJSON('./data/paypath1.json', function(result) {
-        var data =result.data;
+    $.getJSON('./data/gaotu_krs.json', function(data) {
         // alert(data.nodes.reduce((r, item) => r.concat(item), []))
         myChart.hideLoading();
         myChart.setOption(option = {
             title: {
-                text: '支付路径1'
+                text: '路径1'
             },
             tooltip: {
                 trigger: 'item',
@@ -65,7 +64,6 @@
             },
             series: [{
                 type: 'sankey',
-                focusNodeAdjacency:true,
                 layout: 'none',
                 data: data.nodes.slice(0,deep).reduce((r, item) => r.concat(item), []),
             links: data.links.reduce((r, item) => r.concat(item), []),
