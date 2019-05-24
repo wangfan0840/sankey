@@ -49,8 +49,14 @@
     });
 
 
+    var grade =getQueryString("grade");
+    if(!deep){
+        grade="";
+    }else{
+        grade="_"+grade;
+    }
 
-    $.getJSON('./data/gaotu_krs.json', function(data) {
+    $.getJSON('./data/gaotu_krs'+grade+'.json', function(data) {
         // alert(data.nodes.reduce((r, item) => r.concat(item), []))
         myChart.hideLoading();
         myChart.setOption(option = {
